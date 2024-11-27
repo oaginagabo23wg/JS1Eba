@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>DWEC Nombre Apellido</title>
+		<link rel="stylesheet" href="styles/style.css">
+		<script type="text/javascript" src="scripts/scripts.js"></script>
+
+	</head>
+
+	<body>
+		<div>
+
+			<form name="formulario">
+				<label for="nombre">Nombre:</label>
+				<input type="text" name="nombre"/>
+				<label for="apellido">Apellido:</label>
+				<input type="text" name="apellido"/>
+				<label for="alias">Alias:</label>
+				<input type="text" name="alias"/>
+				<br><br>
+				<label for="email">email:</label>
+				<input type="text" name="email"/>
+				<label for="telefono">Telefono:</label>
+				<input type="text" maxlength="3" name="prefijo" disabled/>
+				<input type="text" name="telefono" disabled/>
+				<input type="button" name="opcion_tlf" value="..."/>
+				<br><br>
+				<input type="radio" name="usuario">Profesor</input>
+				<input type="radio" name="usuario">Estudiante</input>
+				<br><br>
+				<input type="submit" name="submit" value="guardar"/>
+			</form>
+		
+			<select name="contactos">
+				<option>Contactos...</option>
+			</select>
+
+		</div>
+		
+		
+	</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>DW32 Examen - Ejercicio 1. Eval-Continua</title>
+
+		<script type="text/javascript" src="examen_ej1_script.js">
+		</script>
+	</head>
+
+	<body>
+		<h1>Restaurantes, asadores y sidrerías de Euskadi</h1>
+
+		<label>Provincia</label>
+		<select id="provincia">
+			<option>-Cargar API-</option>
+		</select>
+		
+		<label>Municipio</label>
+		<select id="municipio">
+			<option>-Cargar API-</option>
+		</select>
+		
+		<label>Restaurantes</label>
+		<select id="restaurantes">
+			<option>-Cargar API-</option>
+		</select>
+		
+		<br></br>
+		
+		<div id="informacion" style="border: solid 1px;">
+			<form name="formulario_info">
+				<h2>Información del local seleccionado</h2>
+				<p>
+					<label>Nombre:</label><input type="text" name="nombre" />
+					<label>Direccion:</label><input type="text" name="direccion" />
+					<label>Localidad:</label><input type="text" name="localidad" />
+				</p>
+				<p>
+					<label>email:</label><input type="text" name="email" style="width:50vw"/>
+					<label>Telefono:</label><input type="text" name="telefono" />
+				</p>
+				<p><label>Sitio web::</label><input type="text" name="web" style="width:75vw" /></p>
+				
+				<h2>Información adicional</h2>
+				<p>
+					<label>Tipo:</label><input type="text" name="tipo" />
+					<label>Capacidad:</label><input type="text" name="capacidad" />
+				</p>
+				<p><label>Turismo euskadi:</label><input type="text" name="web_euskadi" style="width:75vw" /></p>
+				<p><label>Descripcion:</label><textarea rows="5" name="descripcion" style="width:75vw"></textarea></p>	
+			</form>
+		</div>
+	</body>
+</html>

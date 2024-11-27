@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>DW32 Examen - Ejercicio 2. Eval-Continua</title>
+		<link rel="stylesheet" href="styles/styles.css">
+		<script type="text/javascript" src="examen_ej2_script.js"></script>
+	</head>
+
+	<body>
+		<div id="prevision" style="border: solid 1px;">
+			<h2>Parte meteorológico</h2>
+			<button id="cargar" onclick="inicio()">Cargar</button>
+			<select id="idioma">
+				<option value="eu">EU</option>
+				<option value="es">ES</option>
+			</select>
+			<p><label id="label_fecha">Seleccionar fecha:</label></p>
+			<p><label>Prevision:</label><textarea rows="5" id="prevision_meteo" style="width:75vw"></textarea></p>
+			<p><button id="mostrar">+info</button></p>
+			<div class="oculto" id="adicional">
+				<label>Tiempo:</label><img id="tiempo" class="espacios"></img>
+				<label>Viento:</label><img id="viento" class="espacios"></img>
+				<label>Luna:</label><img id="luna" class="espacios"></img>
+				<label>Olas:</label><img id="olas" class="espacios"></img>
+			</div>
+		</div>
+	</body>
+</html>

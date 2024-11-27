@@ -1,0 +1,9 @@
+form, div {
+    padding: 10px;
+    border: 1px solid;
+    display: inline block;
+    float: left;
+}
+input[name='prefijo']{
+    width: 25px;
+}

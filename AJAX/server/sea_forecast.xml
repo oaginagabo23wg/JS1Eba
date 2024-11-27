@@ -1,0 +1,89 @@
+<forecasts>
+	<forecast>
+		<fecha>21/11/2023</fecha>
+		<synopticalDescription>Europan antizikloia. Mediterraneoan ezegonkortasuna. Britaniar uharteen mendebaldean depresioa.</synopticalDescription>
+		<weather>
+			<visibility>superior a 10 Km</visibility>
+			<forecastDescription>
+				<es>Viento variable con fuerza 2 a 3, predominando la componente sur, con intervalos de componente norte en las horas centrales del dia con fuerza 2 a 3. Originara mar rizada, con areas de marejadilla en las horas centrales. La mar de fondo del noroeste levantara olas en torno a 1-1,5 metros.</es>
+				<eu>Norabide aldakorreko haizea ibiliko da, 2-3ko indarrarekin, hego-osagaiko haizea nagusituko da eta egunaren erdiko orduetan tarteka ipar-osagaiko haizea ibiliko da, 2-3ko indarrarekin. Itsaso kizkurra eragingo du, egunaren erdiko orduetan itsaskirriko guneak. Ipar-mendebaldeko hondoko itsasoak 1-1,5 m inguruko olatuak altxatuko ditu.</eu>
+			</forecastDescription>
+			<weatherIcon>/weather/23.gif</weatherIcon>			
+			<windIcon>/weather/52.gif</windIcon>
+		</weather>
+		<moon>
+			<moonPhaseIcon>/moon/moon_4.gif</moonPhaseIcon>
+			<moonPhase>
+				<es>Cuarto creciente</es>
+				<eu>Ilgora</eu>
+			</moonPhase>
+		</moon>
+		<ocean>
+			<waveIcon>/weather/60.gif</waveIcon>
+			<firstHighTide>3.86</firstHighTide>
+			<firstLowTide>1.71</firstLowTide>
+			<secondHighTide>3.53</secondHighTide>
+			<secondLowTide>1.56</secondLowTide>
+			<waterTemperature>18</waterTemperature>
+			<waveHeight>0.3</waveHeight>
+		</ocean>
+	</forecast>
+	<forecast>
+		<fecha>22/11/2023</fecha>
+		<synopticalDescription>Depresioak Britaniar uharteetan du erdigunea, horri loturiko fronte hotza Galiziara hurbiltzen ari da.</synopticalDescription>
+		<weather>
+			<visibility>superior a 10 Km</visibility>
+			<forecastDescription>
+				<es>Viento de componente oeste con fuerza 2 a 3 de madrugada y primeras horas y por la tarde-noche, fijandose del norte-noroeste el resto del dia con fuerza 3. Originara mar rizada a marejadilla. La mar de fondo del noroeste levantara olas en torno a 1 metro, empezando a aumentar por la noche.</es>
+				<eu>Goizaldean, goizean goiz eta arratsalde-gau partean mendebal-osagaiko haizea ibiliko da, 2-3ko indarrarekin, egunaren gainerako orduetan ipar/ipar-mendebaldetik finkatuko da, 3ko indarrarekin. Itsaso kizkurra eta itsaskirria izango da. Ipar-mendebaldeko hondoko itsasoak 1 metro inguruko olatuak altxatuko ditu, gauean igotzen hasiko da.</eu>
+			</forecastDescription>
+			<weatherIcon>/weather/21.gif</weatherIcon>	
+			<windIcon>/weather/28.gif</windIcon>
+		</weather>
+		<moon>
+			<moonPhaseIcon>/moon/moon_6.gif</moonPhaseIcon>
+			<moonPhase>
+				<es>Creciente -> Llena</es>
+				<eu>Ilgora ilargi betera></eu>
+			</moonPhase>
+		</moon>
+		<ocean>
+			<waveIcon>/weather/56.gif</waveIcon>
+			<firstHighTide>3.78</firstHighTide>
+			<firstLowTide>1.86</firstLowTide>
+			<secondHighTide>3.55</secondHighTide>
+			<secondLowTide>1.63</secondLowTide>
+			<waterTemperature>17</waterTemperature>
+			<waveHeight>0.4</waveHeight>
+		</ocean>
+	</forecast>
+	<forecast>
+		<fecha>23/11/2023</fecha>
+		<synopticalDescription>Antizikloia Atlantikoan kokatua dago eta Ipar Europan depresioa. Itsas fluxua. </synopticalDescription>
+		<weather>
+			<visibility>entre 4 y 10 Km</visibility>
+			<forecastDescription>
+				<es>Viento de componente oeste con fuerza 3, rolando a noroeste con fuerza 4 al mediodia. Originara marejadilla aumentando a marejada. La mar de fondo del noroeste se situara de madrugada en torno a 2-2,5 metros, bajando por la tarde-noche a 1,5 metros.</es>
+				<eu>Mendebal-osagaiko haizea ibiliko da, 3ko indarrarekin, eguerdian ipar-mendebaldera egingo du, 4ko indarrarekin. Itsaskirria eta itsaskia izango da. Goizaldean ipar-mendebaldeko hondoko itsasoak 2-2,5 m inguruko olatuak altxatuko ditu, arratsalde-gau partean jaitsi eta 1,5 m inguruko olatuak altxatuko ditu.</eu>
+			</forecastDescription>
+			<weatherIcon>/weather/20.gif</weatherIcon>	
+			<windIcon>/weather/29.gif</windIcon>
+		</weather>
+		<moon>
+			<moonPhaseIcon>/moon/moon_6.gif</moonPhaseIcon>
+			<moonPhase>
+				<es>Creciente -> Llena</es>
+				<eu>Ilgora ilargi betera></eu>
+			</moonPhase>
+		</moon>
+		<ocean>
+			<waveIcon>/weather/62.gif</waveIcon>
+			<firstHighTide>3.83</firstHighTide>
+			<firstLowTide>1.85</firstLowTide>
+			<secondHighTide>3.43</secondHighTide>
+			<secondLowTide>1.58</secondLowTide>
+			<waterTemperature>16</waterTemperature>
+			<waveHeight>0.7</waveHeight>
+		</ocean>
+	</forecast>
+</forecasts>

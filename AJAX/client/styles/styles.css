@@ -1,0 +1,9 @@
+.oculto {
+    display: none;
+}
+.visible {
+    display: inline;
+}
+.espacios {
+    margin: 5%;
+}
